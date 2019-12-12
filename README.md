@@ -6,3 +6,14 @@ It is very important that predict fraud this industry could save a lot of money.
 <p align="center">
 <img src = "Image/Capture.PNG" width = 400 height=300>
 </p>
+
+### Challenge handled:
+
+    Retriving country from ip-address. Used geolite2 library to retrive the country from given ip-address
+    
+ ## Models Built:
+   
+    Logistic Regression
+    DecisionTree
+    RandomForest
+    SVM
