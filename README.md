@@ -3,6 +3,6 @@ It is very important that predict fraud this industry could save a lot of money.
   In our project,’ XYZ’ is the largest e commerce company with its operation in several countries. The number of fraudster merchants are  also more. We have to create analytical model to detect fraud merchant based on attributes given.
   
 
-<p align="center"
+<p align="center">
 <img src = "Image/Capture.PNG" width = 400 height=300>
 </p>
