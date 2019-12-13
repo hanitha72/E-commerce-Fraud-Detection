@@ -18,5 +18,5 @@ It is very important that predict fraud this industry could save a lot of money.
 #### RandomForest
 #### SVM
 
-### DecisionTree schematic diagram
+### DecisionTree schematic diagram:
 <img src = "Image/DT.PNG">
