@@ -12,6 +12,6 @@ It is very important that predict fraud this industry could save a lot of money.
     
  ## Models Built:
 #### Logistic Regression
-    DecisionTree
-    RandomForest
-    SVM
+#### DecisionTree
+#### RandomForest
+#### SVM
