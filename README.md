@@ -8,12 +8,15 @@ It is very important that predict fraud this industry could save a lot of money.
 </p>
 
 ### Challenge handled:
- Retriving country from ip-address. Used geolite2 library to retrive the country from given ip-address
+ Retriving country from ip-address is major challenge. Used geolite2 library to retrive the country from given ip-address
+ Handling of imbalanced data
  
     
- ## Models Built:
+## Models Built:
 #### Logistic Regression
 #### DecisionTree
 #### RandomForest
 #### SVM
+
+### DecisionTree schematic diagram
 <img src = "Image/DT.PNG">
